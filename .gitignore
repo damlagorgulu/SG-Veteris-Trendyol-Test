@@ -1,0 +1,32 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse
+.settings/
+.classpath
+.project
+.metadata/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.iml
+*.ipr
+
+# Selenium WebDriver
+geckodriver.log
+MicrosoftWebDriver.log
+chromedriver.log
+
+# Gauge
+.gauge/
+reports/
+
+# JUnit
+target/
+
+# OS or Editor files
+.DS_Store
+Thumbs.db
